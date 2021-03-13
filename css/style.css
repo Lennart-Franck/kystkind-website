@@ -10033,7 +10033,7 @@ header .navbar {
 
 @media (max-width: 1199.98px) {
   header .navbar {
-    background: transparent !important;
+    background: #648c8f !important;
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
   }
